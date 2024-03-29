@@ -8,18 +8,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">The Forging Catalog</h3>
 <div align="center">
 <a href="" target="_blank"><img src="https://i.pinimg.com/originals/3e/95/9e/3e959e215b271ea65b18146213caca79.jpg" width="400" alt=""></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>The Forging Catalog is the database and server project of The Dwarves Forge, which is a web application serving as a virtual medieval blacksmithing simulator game. The Forging Catalog project is developed in Java and utilizes Spring Boot libraries with a domain-driven architecture, along with the application of the MapStruct design pattern. It uses a relational database managed by PostgreSQL and Java connection with JPA Hibernate. The project aims to develop a  <strong>REST API </strong> that handles the three main menus of the simulator for object creation, purchase, and sale.</p>
 </div>
                                                                                       
 </td>
