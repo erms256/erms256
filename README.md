@@ -13,7 +13,7 @@
 <a href="" target="_blank"><img src="https://i.pinimg.com/originals/3e/95/9e/3e959e215b271ea65b18146213caca79.jpg" width="400" alt=""></a>
 <p>
 </p>
-<p>The Forging Catalog is the database and server project of The Dwarves Forge, which is a web application serving as a virtual medieval blacksmithing simulator game. The Forging Catalog project is developed in Java and utilizes Spring Boot libraries with a domain-driven architecture, along with the application of the MapStruct design pattern. It uses a relational database managed by PostgreSQL and Java connection with JPA Hibernate. The project aims to develop a  <strong>REST API </strong> that handles the three main menus of the simulator for object creation, purchase, and sale.</p>
+<p>The Forging Catalog is the database and server project for The Dwarves Forge, a web-based medieval blacksmithing simulator game. Developed in Java using Spring Boot and MapStruct, it connects to a PostgreSQL database via JPA Hibernate. The project's goal is to create a <strong>REST API </strong>handling object creation, purchase, and sale within the simulator's main menus.</p>
 </div>
                                                                                       
 </td>
