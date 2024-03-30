@@ -22,7 +22,7 @@
                <br>
 <h3 align="center">Gentrificación CNN Prototype</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.pinimg.com/originals/4b/8b/7f/4b8b7f81a70d338bd8272d5949b90c09.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/erms256/Gentrification-CNN-Prototype" target="_blank"><img src="https://i.pinimg.com/originals/4b/8b/7f/4b8b7f81a70d338bd8272d5949b90c09.jpg" width="400" alt=""></a>
 <br>
 <p>
 </p>
